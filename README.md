@@ -7,7 +7,7 @@ This is a model which takes a selfie image as input and converts it into anime l
 
 The dataset contains several thousand samples of selfie images and face images of anime characters.
 
-This project is an implementation of the CartoonGAN model proposed in the paper "CartoonGAN: Generative Adversarial Networks for Photo Cartoonization"(https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf).
+This project is an implementation of the CartoonGAN model proposed in the paper "[CartoonGAN: Generative Adversarial Networks for Photo Cartoonization]"(https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf).
 
 The main proposals in this paper include:
   - New and efficient Generator and Discriminator Architectures
