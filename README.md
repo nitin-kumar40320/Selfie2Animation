@@ -1,6 +1,6 @@
 ## Work is under progress on this project...
 
-# Selfie2Anime
+# Selfie2Animation
 It is a fun project to implement a CartoonGAN from the basic and perform image cartoonisation on selfie images.
 
 This is a model which takes a selfie image as input and converts it into anime like style. I plan to use adversarial training method to train this model.
